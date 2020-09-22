@@ -463,6 +463,686 @@ export class CountryService {
         dialCode: '967',
         countryCode: 'ye'
       }
+        /**
+         * {
+        name: '',
+        dialCode: '260',
+        countryCode: 'zm'
+      },
+         {
+        name: '',
+        dialCode: '263',
+        countryCode: 'zw'
+      },
+      {
+        name: '',
+        dialCode: '358',
+        countryCode: 'ax'
+      },{
+         name: '',
+         dialCode: '681',
+         countryCode: 'wf'
+         },
+         {
+        name: '',
+        dialCode: '212',
+        countryCode: 'eh'
+      },
+         {
+        name: '',
+        dialCode: '598',
+        countryCode: 'uy'
+      },
+         {
+        name: '',
+        dialCode: '998',
+        countryCode: 'uz'
+      },
+         {
+        name: '',
+        dialCode: '678',
+        countryCode: 'vu'
+      },
+         {
+        name: '',
+        dialCode: '39',
+        countryCode: 'va'
+      },
+         {
+        name: '',
+        dialCode: '44',
+        countryCode: 'gb'
+      },
+         {
+        name: '',
+        dialCode: '993',
+        countryCode: 'tm'
+      },
+         {
+        name: '',
+        dialCode: '1649',
+        countryCode: 'tc'
+      },
+         {
+        name: '',
+        dialCode: '688',
+        countryCode: 'tv'
+      },
+         {
+        name: '',
+        dialCode: '1340',
+        countryCode: 'vi'
+      },
+         {
+        name: '',
+        dialCode: '256',
+        countryCode: 'ug'
+      },
+         {
+        name: '',
+        dialCode: '228',
+        countryCode: 'tg'
+      },
+         {
+        name: '',
+        dialCode: '690',
+        countryCode: 'tk'
+      },
+         {
+        name: '',
+        dialCode: '676',
+        countryCode: 'to'
+      },
+         {
+        name: '',
+        dialCode: '1868',
+        countryCode: 'tt'
+      },
+         {
+        name: '',
+        dialCode: '216',
+        countryCode: 'tn'
+      },
+         {
+        name: '',
+        dialCode: '66',
+        countryCode: 'th'
+      }, {
+        name: '',
+        dialCode: '963',
+        countryCode: 'sy'
+      },
+         {
+        name: '',
+        dialCode: '886',
+        countryCode: 'tw'
+      },,
+         {
+        name: '',
+        dialCode: '94',
+        countryCode: 'lk'
+      },
+         {
+        name: '',
+        dialCode: '249',
+        countryCode: 'sd'
+      },
+         {
+        name: '',
+        dialCode: '597',
+        countryCode: 'sr'
+      },
+         {
+        name: '',
+        dialCode: '47',
+        countryCode: 'sj'
+      },
+         {
+        name: '',
+        dialCode: '268',
+        countryCode: 'sz'
+      },{
+        name: '',
+        dialCode: '211',
+        countryCode: 'ss'
+      },{
+        name: '',
+        dialCode: '27',
+        countryCode: 'za'
+      },
+         {
+        name: '',
+        dialCode: '508',
+        countryCode: 'pm'
+      },{
+        name: '',
+        dialCode: '590',
+        countryCode: 'bl'
+      },
+         {
+        name: '',
+        dialCode: '290',
+        countryCode: 'sh'
+      },
+         {
+        name: '',
+        dialCode: '1784',
+        countryCode: 'vc'
+      },
+         {
+        name: '',
+        dialCode: '685',
+        countryCode: 'ws'
+      },
+         {
+        name: '',
+        dialCode: '378',
+        countryCode: 'sm'
+      },
+         {
+        name: '',
+        dialCode: '239',
+        countryCode: 'st'
+      },
+         {
+        name: '',
+        dialCode: '1721',
+        countryCode: 'sx'
+      },{
+        name: '',
+        dialCode: '381',
+        countryCode: 'rs'
+      },
+         {
+        name: '',
+        dialCode: '248',
+        countryCode: 'sc'
+      },
+         {
+        name: '',
+        dialCode: '421',
+        countryCode: 'sk'
+      },
+         {
+        name: '',
+        dialCode: '386',
+        countryCode: 'si'
+      },
+         {
+        name: '',
+        dialCode: '677',
+        countryCode: 'sb'
+      },,
+         {
+        name: '',
+        dialCode: '381',
+        countryCode: 'rs'
+      },
+         {
+        name: '',
+        dialCode: '248',
+        countryCode: 'sc'
+      },{
+        name: '',
+        dialCode: '994',
+        countryCode: 'az'
+      },
+         {
+        name: '',
+        dialCode: '1242',
+        countryCode: 'bs'
+      },
+         {
+        name: '',
+        dialCode: '973',
+        countryCode: 'bh'
+      },
+         {
+        name: '',
+        dialCode: '880',
+        countryCode: 'bd'
+      },
+         {
+        name: '',
+        dialCode: '1246',
+        countryCode: 'bb'
+      },
+         {
+        name: '',
+        dialCode: '375',
+        countryCode: 'by'
+      },,
+         {
+        name: '',
+        dialCode: '501',
+        countryCode: 'bz'
+      },
+         {
+        name: '',
+        dialCode: '229',
+        countryCode: 'bj'
+      },
+         {
+        name: '',
+        dialCode: '1441',
+        countryCode: 'bm'
+      },
+         {
+        name: '',
+        dialCode: '975',
+        countryCode: 'bt'
+      }, {
+        name: '',
+        dialCode: '246',
+        countryCode: 'io'
+      },
+         {
+        name: '',
+        dialCode: '1284',
+        countryCode: 'vg'
+      },
+         {
+        name: '',
+        dialCode: '673',
+        countryCode: 'bn'
+      },,
+         {
+        name: '',
+        dialCode: '257',
+        countryCode: 'bi'
+      },
+         {
+        name: '',
+        dialCode: '855',
+        countryCode: 'kh'
+      },
+         {
+        name: '',
+        dialCode: '238',
+        countryCode: 'cv'
+      },
+         {
+        name: '',
+        dialCode: '599',
+        countryCode: 'bq'
+      },
+         {
+        name: '',
+        dialCode: '1345',
+        countryCode: 'ky'
+      },
+         {
+        name: '',
+        dialCode: '236',
+        countryCode: 'cf'
+      },
+         {
+        name: '',
+        dialCode: '387',
+        countryCode: 'ba'
+      },
+         {
+        name: '',
+        dialCode: '267',
+        countryCode: 'bw'
+      },
+         {
+        name: '',
+        dialCode: '61',
+        countryCode: 'cx'
+      },
+         {
+        name: '',
+        dialCode: '269',
+        countryCode: 'km'
+      },
+         {
+        name: '',
+        dialCode: '682',
+        countryCode: 'ck'
+      },
+         {
+        name: '',
+        dialCode: '262',
+        countryCode: 're'
+      },{
+        name: '',
+        dialCode: '1',
+        countryCode: 'pr'
+      },
+         {
+        name: '',
+        dialCode: '63',
+        countryCode: 'ph'
+      },
+         {
+        name: '',
+        dialCode: '506',
+        countryCode: 'cr'
+      },
+         {
+        name: '',
+        dialCode: '225',
+        countryCode: 'ci'
+      },
+         {
+        name: '',
+        dialCode: '385',
+        countryCode: 'hr'
+      },
+         {
+        name: '',
+        dialCode: '53',
+        countryCode: 'cu'
+      },
+         {
+        name: '',
+        dialCode: '599',
+        countryCode: 'cw'
+      },
+         {
+        name: '',
+        dialCode: '357',
+        countryCode: 'cy'
+      },
+         {
+        name: '',
+        dialCode: '1767',
+        countryCode: 'dm'
+      },
+         {
+        name: '',
+        dialCode: '1',
+        countryCode: 'do'
+      },
+         {
+        name: '',
+        dialCode: '593',
+        countryCode: 'ec'
+      },
+         {
+        name: '',
+        dialCode: '240',
+        countryCode: 'gq'
+      },
+         {
+        name: '',
+        dialCode: '291',
+        countryCode: 'er'
+      }, {
+        name: '',
+        dialCode: '251',
+        countryCode: 'et'
+      },
+         {
+        name: '',
+        dialCode: '500',
+        countryCode: 'fk'
+      },
+         {
+        name: '',
+        dialCode: '298',
+        countryCode: 'fo'
+      },
+         {
+        name: '',
+        dialCode: '679',
+        countryCode: 'fj'
+      },
+         {
+        name: '',
+        dialCode: '995',
+        countryCode: 'ge'
+      },{
+        name: '',
+        dialCode: '233',
+        countryCode: 'gh'
+      },
+         {
+        name: '',
+        dialCode: '350',
+        countryCode: 'gi'
+      },
+         {
+        name: '',
+        dialCode: '30',
+        countryCode: 'gr'
+      },
+         {
+        name: '',
+        dialCode: '299',
+        countryCode: 'gl'
+      },
+         {
+        name: '',
+        dialCode: '1473',
+        countryCode: 'gd'
+      },
+         {
+        name: '',
+        dialCode: '590',
+        countryCode: 'gp'
+      },
+         {
+        name: '',
+        dialCode: '1671',
+        countryCode: 'gu'
+      },,
+         {
+        name: '',
+        dialCode: '44',
+        countryCode: 'gg'
+      },
+         {
+        name: '',
+        dialCode: '224',
+        countryCode: 'gn'
+      },
+         {
+        name: '',
+        dialCode: '245',
+        countryCode: 'gw'
+      },
+         {
+        name: '',
+        dialCode: '592',
+        countryCode: 'gy'
+      },
+         {
+        name: '',
+        dialCode: '852',
+        countryCode: 'hk'
+      },{
+        name: '',
+        dialCode: '354',
+        countryCode: 'is'
+      },
+         {
+        name: '',
+        dialCode: '44',
+        countryCode: 'im'
+      },{
+        name: '',
+        dialCode: '44',
+        countryCode: 'je'
+      },
+         {
+        name: '',
+        dialCode: '254',
+        countryCode: 'ke'
+      },
+         {
+        name: '',
+        dialCode: '686',
+        countryCode: 'ki'
+      },
+         {
+        name: '',
+        dialCode: '383',
+        countryCode: 'xk'
+      },,
+         {
+        name: '',
+        dialCode: '231',
+        countryCode: 'lr'
+      },
+         {
+        name: '',
+        dialCode: '218',
+        countryCode: 'ly'
+      },
+         {
+        name: '',
+        dialCode: '423',
+        countryCode: 'li'
+      },
+         {
+        name: '',
+        dialCode: '370',
+        countryCode: 'lt'
+      },
+         {
+        name: '',
+        dialCode: '853',
+        countryCode: 'mo'
+      },
+         {
+        name: '',
+        dialCode: '265',
+        countryCode: 'mw'
+      },
+         {
+        name: '',
+        dialCode: '60',
+        countryCode: 'my'
+      },
+         {
+        name: '',
+        dialCode: '960',
+        countryCode: 'mv'
+      },,
+         {
+        name: '',
+        dialCode: '692',
+        countryCode: 'mh'
+      },
+         {
+        name: '',
+        dialCode: '596',
+        countryCode: 'mq'
+      },
+         {
+        name: '',
+        dialCode: '222',
+        countryCode: 'mr'
+      },
+         {
+        name: '',
+        dialCode: '230',
+        countryCode: 'mu'
+      },
+         {
+        name: '',
+        dialCode: '262',
+        countryCode: 'yt'
+      },,
+         {
+        name: '',
+        dialCode: '691',
+        countryCode: 'fm'
+      },
+         {
+        name: '',
+        dialCode: '373',
+        countryCode: 'md'
+      },
+         {
+        name: '',
+        dialCode: '377',
+        countryCode: 'mc'
+      },
+         {
+        name: '',
+        dialCode: '976',
+        countryCode: 'mn'
+      },
+         {
+        name: '',
+        dialCode: '382',
+        countryCode: 'me'
+      },
+         {
+        name: '',
+        dialCode: '1664',
+        countryCode: 'ms'
+      },
+         {
+        name: '',
+        dialCode: '212',
+        countryCode: 'ma'
+      },
+         {
+        name: '',
+        dialCode: '258',
+        countryCode: 'mz'
+      },
+         {
+        name: '',
+        dialCode: '683',
+        countryCode: 'nu'
+      },
+         {
+        name: '',
+        dialCode: '672',
+        countryCode: 'nf'
+      },
+         {
+        name: '',
+        dialCode: '850',
+        countryCode: 'kp'
+      },
+         {
+        name: '',
+        dialCode: '1670',
+        countryCode: 'mp'
+      },
+         {
+        name: '',
+        dialCode: '687',
+        countryCode: 'nc'
+      },
+         {
+        name: '',
+        dialCode: '64',
+        countryCode: 'nz'
+      },
+         {
+        name: '',
+        dialCode: '674',
+        countryCode: 'nr'
+      },
+         {
+        name: '',
+        dialCode: '977',
+        countryCode: 'np'
+      },
+         {
+        name: '',
+        dialCode: '680',
+        countryCode: 'pw'
+      },
+         {
+        name: '',
+        dialCode: '970',
+        countryCode: 'ps'
+      },
+         {
+        name: '',
+        dialCode: '63',
+        countryCode: 'ph'
+      },
+
+         */
     ];
   }
 

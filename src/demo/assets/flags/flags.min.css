@@ -39,7 +39,7 @@
 }
 
 .flag.flag-se {
-    /** background-position: -208px -121px**/
+   /** background-position: -208px -121px**/
     background: url('./assets/flags/icons/SE.png') no-repeat;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .flag.flag-fi {
-    /** background-position: 0 -44px**/
+   /** background-position: 0 -44px**/
     background: url('./assets/flags/icons/FI.png') no-repeat;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .flag.flag-dk {
-    /** background-position: -64px -33px**/
+   /** background-position: -64px -33px**/
     background: url('./assets/flags/icons/DK.png') no-repeat;
 }
 
@@ -491,7 +491,7 @@
 }
 
 .flag.flag-ch {
-    /** background-position: -96px -22px**/
+   /** background-position: -96px -22px**/
     background: url('./assets/flags/icons/CH.png') no-repeat;
 }
 
@@ -544,7 +544,7 @@
 
 .flag.flag-ml {
     /**background-position: -176px -88px*/*/
-background: url('./assets/flags/icons/ML.png') no-repeat;
+    background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-sl {
@@ -558,7 +558,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-py {
-    /** background-position: -16px -121px**/
+   /** background-position: -16px -121px**/
     background: url('./assets/flags/icons/PY.png') no-repeat;
 }
 
@@ -675,7 +675,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-fr {
-    /* background-position: -80px -44px*/
+   /* background-position: -80px -44px*/
     background: url('./assets/flags/icons/FR.png') no-repeat;
 }
 
@@ -716,7 +716,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-cz {
-    /** background-position: -16px -33px**/
+   /** background-position: -16px -33px**/
     background: url('./assets/flags/icons/CZ.png') no-repeat;
 }
 
@@ -1188,6 +1188,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
     background-position: -16px -132px
 }
 
+
 .flag.flag-nu {
     background-position: -32px -110px
 }
@@ -1215,6 +1216,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
     /**background-position: -48px 0**/
     background: url('./assets/flags/icons/AG.png') no-repeat;
 }
+
 
 .flag.flag-ch {
     /** background-position: -96px -22px**/
@@ -1297,6 +1299,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
     background-position: -128px -55px
 }
 
+
 .flag.flag-sj {
     background-position: 0 -132px
 }
@@ -1314,6 +1317,11 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 
     background: url('./assets/flags/icons/VN.png') no-repeat;
 }
+
+.flag.flag-iq {
+    background-position: -96px -66px
+}
+
 
 .flag.flag-mz {
     background-position: -128px -99px
@@ -1360,7 +1368,6 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
     background: url('./assets/flags/icons/SN.png') no-repeat;
 }
 
-
 .flag.flag-pe {
     /**background-position: -96px -110px**/
     background: url('./assets/flags/icons/PE.png') no-repeat;
@@ -1394,11 +1401,6 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
     background: url('./assets/flags/icons/NO.png') no-repeat;
 }
 
-.flag.flag-na {
-    /**background-position: -144px -99px**/
-    background: url('./assets/flags/icons/NA.png') no-repeat;
-}
-
 .flag.flag-ee {
     /**background-position: -144px -33px**/
     background: url('./assets/flags/icons/EE.png') no-repeat;
@@ -1425,6 +1427,11 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 .flag.flag-co {
     /**background-position: -192px -22px**/
     background: url('./assets/flags/icons/CO.png') no-repeat;
+}
+
+.flag.flag-na {
+    /**background-position: -144px -99px**/
+    background: url('./assets/flags/icons/NA.png') no-repeat;
 }
 
 .flag.flag-er {
@@ -1655,7 +1662,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-np {
-    /** background-position: 0 -110px**/
+   /** background-position: 0 -110px**/
     background: url('./assets/flags/icons/NP.png') no-repeat;
 }
 
@@ -1917,7 +1924,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-jo {
-    /** background-position: -208px -66px**/
+   /** background-position: -208px -66px**/
     background: url('./assets/flags/icons/JO.png') no-repeat;
 }
 
@@ -2034,7 +2041,7 @@ background: url('./assets/flags/icons/ML.png') no-repeat;
 }
 
 .flag.flag-lu {
-    /** background-position: -16px -88px**/
+   /** background-position: -16px -88px**/
     background: url('./assets/flags/icons/LU.png') no-repeat;
 }
 

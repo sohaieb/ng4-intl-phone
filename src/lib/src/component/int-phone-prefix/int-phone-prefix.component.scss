@@ -29,10 +29,11 @@
 }
 
 .defaultCountry {
-  background:url('http://res.cloudinary.com/dvbuhh0bl/image/upload/c_scale,h_15,w_15/v1495279723/default_tmey2r.png') no-repeat;
-  display:inline-block;
-  width:15px;
-  height:15px;
+  background: url('../../assets/flags/icons/unknown-flag.png') no-repeat;
+    display: inline-block;
+    width: 16px;
+    height: 11px;
+    background-size: 16px auto !important;
 }
 
 .list-group {
